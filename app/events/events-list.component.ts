@@ -6,7 +6,7 @@ import { Component } from '@angular/core'
 })
 
 export class EventsListComponent {
-    event = {
+    eventBase = {
         id: 1,
         name: 'Angular Connect',
         date: '9/26/2036',
